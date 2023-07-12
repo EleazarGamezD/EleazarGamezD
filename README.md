@@ -6,6 +6,6 @@
 - 📫 how to get to me, you can get me on my linkedin link https://www.linkedin.com/in/eleazar-gamez-80a7a421a/ ...
 
 <!---
-froitzent/froitzent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EleazarGamezD/froitzent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
