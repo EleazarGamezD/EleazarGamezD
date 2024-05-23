@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/eleazar_gamez" target="blank"><img src="https://img.shields.io/twitter/follow/eleazar_gamez?logo=twitter&style=for-the-badge" alt="eleazar_gamez" /></a> </p>
 
-- 🔭 I’m currently working on **unemployed / freelance**
+- 🔭 I’m currently working on **employed / freelance**
 
 - 🌱 I’m currently learning **PHP**
 
