@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **employed / freelance**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://eleazargamezd.github.io/portfolio](https://eleazargamezd.github.io/portfolio)
 
