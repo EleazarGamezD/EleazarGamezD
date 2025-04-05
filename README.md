@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on **employed / freelance**
 
-- 👨‍💻 All of my projects are available at [https://eleazargamezd.github.io/portfolio](https://eleazargamezd.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [https://eleazargamez.dev/](My Portfolio)
 
 - 📫 How to reach me **Eleazar.gamezd@gmail.com**
-
-- 📄 Know about my experiences [https://eleazargamezd.github.io/portfolio/assets/docs/CV_ELEAZAR_GAMEZ_ESPA%C3%91OL.pdf](https://eleazargamezd.github.io/portfolio/assets/docs/CV_ELEAZAR_GAMEZ_ESPA%C3%91OL.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
