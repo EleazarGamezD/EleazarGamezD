@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **employed / freelance**
 
-- 👨‍💻 All of my projects are available at [https://eleazargamez.dev/](My Portfolio)
+- 👨‍💻 All of my projects are available at [https://eleazargamez.dev/] (My Portfolio)
 
 - 📫 How to reach me **Eleazar.gamezd@gmail.com**
 
