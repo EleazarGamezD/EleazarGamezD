@@ -15,7 +15,7 @@
 
 Desarrollador **Full Stack** venezolano, viviendo en Colombia. Convierto ideas en productos web completos: interfaces claras, APIs sólidas y sistemas listos para crecer.
 
-- 🚀 Trabajo con **Angular, React, NestJS, Node.js y TypeScript**.
+- 🚀 Construyo productos con **Angular, React/Next.js, NestJS y Node.js**, desde la interfaz hasta infraestructura y despliegue.
 - 🧠 Me interesan la arquitectura limpia, la automatización y resolver problemas reales.
 - 💼 Disponible para proyectos freelance y nuevas oportunidades.
 - 🌐 Conoce mi trabajo en [eleazargamez.dev](https://eleazargamez.dev).
@@ -24,9 +24,15 @@ Desarrollador **Full Stack** venezolano, viviendo en Colombia. Convierto ideas e
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,nestjs,nodejs,express,postgres,mongodb,docker,git,github&perline=6" alt="Angular, React, TypeScript, JavaScript, NestJS, Node.js, Express, PostgreSQL, MongoDB, Docker, Git y GitHub" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,astro,ts,js,html,css,nodejs,nestjs,express,postgres,mysql,mongodb,redis,firebase,aws,docker,git,github,gitlab,githubactions,jest,cypress&perline=8" alt="Angular, React, Next.js, Astro, TypeScript, JavaScript, HTML, CSS, Node.js, NestJS, Express, PostgreSQL, MySQL, MongoDB, Redis, Firebase, AWS, Docker, Git, GitHub, GitLab, GitHub Actions, Jest y Cypress" />
 
 </div>
+
+- **Frontend:** Angular, React, Next.js, Astro, TypeScript, SSR y PWAs.
+- **Backend:** NestJS, Node.js, Express, REST APIs, WebSockets, microservicios y procesamiento con colas.
+- **Datos:** PostgreSQL, MySQL, MongoDB, Redis, TypeORM y Mongoose.
+- **Cloud & DevOps:** Docker, AWS, Firebase, Cloud Functions, GitHub Actions y GitLab CI/CD.
+- **Calidad:** Jest, Cypress, Swagger/OpenAPI, observabilidad y automatización de pruebas.
 
 ## Mi actividad en código
 
