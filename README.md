@@ -7,6 +7,9 @@
   <a href="mailto:Eleazar.gamezd@gmail.com"><img src="https://img.shields.io/badge/EMAIL-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://x.com/Eleazar_Gamez"><img src="https://img.shields.io/badge/FOLLOW-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=EleazarGamezD&label=VISITAS%20AL%20PERFIL&color=6D28D9&style=for-the-badge" alt="Contador de visitas del perfil" />
+
 </div>
 ## Hola, soy Eleazar 👋
 
