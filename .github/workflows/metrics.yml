@@ -38,6 +38,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_mode: playlist
           plugin_music_playlist: >-
             https://open.spotify.com/embed/playlist/2YRAvs8FZot49hqsaxoMXe
           plugin_music_limit: 4
