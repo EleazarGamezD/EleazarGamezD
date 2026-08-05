@@ -39,6 +39,20 @@ Desarrollador **Full Stack** venezolano, viviendo en Colombia. Convierto ideas e
 
 </div>
 
+## Mi selección musical 🎧
+
+<div align="center">
+
+  <a href="https://open.spotify.com/playlist/2YRAvs8FZot49hqsaxoMXe">
+    <img src="https://mosaic.scdn.co/300/ab67616d00001e022051e219a4af7648223953c1ab67616d00001e022277d1a849a63c7075ec38ffab67616d00001e02668e3aca3167e6e569a9aa20ab67616d00001e02b12877d8bdfaa0f19b4624fa" width="260" alt="Playlist metal de Eleazar en Spotify">
+  </a>
+  <br>
+  <a href="https://open.spotify.com/playlist/2YRAvs8FZot49hqsaxoMXe">
+    <img src="https://img.shields.io/badge/ESCUCHAR%20EN%20SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escuchar en Spotify">
+  </a>
+
+</div>
+
 <div align="center">
 
   <sub>Construyendo, aprendiendo y mejorando un commit a la vez.</sub>
