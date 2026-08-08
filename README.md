@@ -15,7 +15,7 @@
 
 Desarrollador **Full Stack** venezolano, viviendo en Colombia. Convierto ideas en productos web completos: interfaces claras, APIs sólidas y sistemas listos para crecer.
 
-- 🚀 Construyo productos con **Angular, React/Next.js, NestJS y Node.js**, desde la interfaz hasta infraestructura y despliegue.
+- 🚀 Construyo productos con **Angular, React, NestJS y Node.js**, desde la interfaz hasta infraestructura y despliegue.
 - 🧠 Me interesan la arquitectura limpia, la automatización y resolver problemas reales.
 - 💼 Disponible para proyectos freelance y nuevas oportunidades.
 - 🌐 Conoce mi trabajo en [eleazargamez.dev](https://eleazargamez.dev).
@@ -24,11 +24,11 @@ Desarrollador **Full Stack** venezolano, viviendo en Colombia. Convierto ideas e
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,astro,ts,js,html,css,nodejs,nestjs,express,postgres,mysql,mongodb,redis,firebase,aws,docker,git,github,gitlab,githubactions,jest,cypress&perline=8" alt="Angular, React, Next.js, Astro, TypeScript, JavaScript, HTML, CSS, Node.js, NestJS, Express, PostgreSQL, MySQL, MongoDB, Redis, Firebase, AWS, Docker, Git, GitHub, GitLab, GitHub Actions, Jest y Cypress" />
+  <img src="https://skillicons.dev/icons?i=angular,react,astro,ts,js,html,css,nodejs,nestjs,express,postgres,mysql,mongodb,redis,firebase,aws,docker,git,github,gitlab,githubactions,jest,cypress&perline=8" alt="Angular, React, Astro, TypeScript, JavaScript, HTML, CSS, Node.js, NestJS, Express, PostgreSQL, MySQL, MongoDB, Redis, Firebase, AWS, Docker, Git, GitHub, GitLab, GitHub Actions, Jest y Cypress" />
 
 </div>
 
-- **Frontend:** Angular, React, Next.js, Astro, TypeScript, SSR y PWAs.
+- **Frontend:** Angular, React, Astro, TypeScript, SSR y PWAs.
 - **Backend:** NestJS, Node.js, Express, REST APIs, WebSockets, microservicios y procesamiento con colas.
 - **Datos:** PostgreSQL, MySQL, MongoDB, Redis, TypeORM y Mongoose.
 - **Cloud & DevOps:** Docker, AWS, Firebase, Cloud Functions, GitHub Actions y GitLab CI/CD.
