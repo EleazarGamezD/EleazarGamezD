@@ -24,12 +24,6 @@ jobs:
           config_display: large
           config_octicon: yes
           config_timezone: America/Bogota
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_threshold: C
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_limit: 5
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
