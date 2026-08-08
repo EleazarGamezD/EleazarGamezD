@@ -45,6 +45,24 @@ Desarrollador **Full Stack** venezolano, viviendo en Colombia. Convierto ideas e
 
 </div>
 
+## Actividad reciente
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EleazarGamezD&theme=github-compact&hide_border=true&area=true" alt="Actividad reciente de Eleazar Gamez en GitHub" width="100%">
+
+</div>
+
+## Achievements
+
+<div align="center">
+
+  <a href="https://github.com/EleazarGamezD?tab=achievements"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="110" alt="Pair Extraordinaire"></a>
+  <a href="https://github.com/EleazarGamezD?tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="110" alt="YOLO"></a>
+  <a href="https://github.com/EleazarGamezD?tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="110" alt="Pull Shark"></a>
+
+</div>
+
 ## Mi selección musical 🎧
 
 <div align="center">
