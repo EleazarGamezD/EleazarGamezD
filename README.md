@@ -13,9 +13,9 @@
 </div>
 ## Hola, soy Eleazar 👋
 
-Desarrollador **Full Stack** venezolano, viviendo en Colombia. Convierto ideas en productos web completos: interfaces claras, APIs sólidas y sistemas listos para crecer.
+Soy desarrollador **Full Stack** y vivo en Colombia. Trabajo principalmente con **Angular, NestJS y Node.js**, creando aplicaciones web y APIs. Me gusta entender bien cada problema, encontrar soluciones prácticas y mejorar constantemente lo que construyo.
 
-- 🚀 Construyo productos con **Angular, React, NestJS y Node.js**, desde la interfaz hasta infraestructura y despliegue.
+- 🚀 Trabajo en productos completos, desde la interfaz hasta el backend, la infraestructura y el despliegue.
 - 🧠 Me interesan la arquitectura limpia, la automatización y resolver problemas reales.
 - 💼 Disponible para proyectos freelance y nuevas oportunidades.
 - 🌐 Conoce mi trabajo en [eleazargamez.dev](https://eleazargamez.dev).
@@ -24,15 +24,15 @@ Desarrollador **Full Stack** venezolano, viviendo en Colombia. Convierto ideas e
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=angular,react,astro,ts,js,html,css,nodejs,nestjs,express,postgres,mysql,mongodb,redis,firebase,aws,docker,git,github,gitlab,githubactions,jest,cypress&perline=8" alt="Angular, React, Astro, TypeScript, JavaScript, HTML, CSS, Node.js, NestJS, Express, PostgreSQL, MySQL, MongoDB, Redis, Firebase, AWS, Docker, Git, GitHub, GitLab, GitHub Actions, Jest y Cypress" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,nodejs,nestjs,express,postgres,mysql,mongodb,redis,firebase,aws,docker,git,github,gitlab,githubactions,jest,cypress&perline=8" alt="Angular, TypeScript, JavaScript, HTML, CSS, Node.js, NestJS, Express, PostgreSQL, MySQL, MongoDB, Redis, Firebase, AWS, Docker, Git, GitHub, GitLab, GitHub Actions, Jest y Cypress" />
 
 </div>
 
-- **Frontend:** Angular, React, Astro, TypeScript, SSR y PWAs.
-- **Backend:** NestJS, Node.js, Express, REST APIs, WebSockets, microservicios y procesamiento con colas.
-- **Datos:** PostgreSQL, MySQL, MongoDB, Redis, TypeORM y Mongoose.
-- **Cloud & DevOps:** Docker, AWS, Firebase, Cloud Functions, GitHub Actions y GitLab CI/CD.
-- **Calidad:** Jest, Cypress, Swagger/OpenAPI, observabilidad y automatización de pruebas.
+- **Frontend:** Angular, TypeScript, RxJS, SSR, PWAs, Angular Material y Bootstrap.
+- **Backend:** NestJS, Node.js, Express, REST APIs, WebSockets, microservicios y colas.
+- **Datos:** MongoDB, MySQL, PostgreSQL, Redis, TypeORM, Mongoose y Sequelize.
+- **Cloud & DevOps:** Docker, AWS S3, Firebase, Google Cloud Functions, GitHub Actions, GitLab CI/CD y DigitalOcean.
+- **Calidad:** Jest, Cypress, Vitest, Swagger/OpenAPI y ESLint.
 
 ## Mi actividad en código
 
